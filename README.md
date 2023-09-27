@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enriqueGaleanoT
 - 👀 I’m interested in Videogames, 3D modeling, and web development
-- 🌱 I’m currently learning HTML, CSS, JS, JSON
+- 🌱 I’m currently learning HTML, CSS, JS, React
 - 💞️ I’m looking to collaborate on a 3D modeling studio or Front End Apps
 - 📫 How to reach me enriquej999@gmail.com
 
